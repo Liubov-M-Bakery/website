@@ -10,6 +10,7 @@
 - view all the items
 - view information about the bakery
 - contact the person in charge
+- toggle the display language between Russian and English
 
 ### Next level: admin module, backend
 - login btn -> login screen
@@ -17,7 +18,6 @@
 - edit pastry
 - delete pastry  
 - details (add description, time to cook, allergies) - item-details component
-- country detection for language
 
 ---
 

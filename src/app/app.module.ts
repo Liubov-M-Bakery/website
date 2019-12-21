@@ -12,6 +12,12 @@ import { AboutComponent } from './components/about/about.component';
 import { PageNotFoundComponent } from './components/page-not-found/page-not-found.component';
 import { NavbarComponent } from './components/navbar/navbar.component';
 import { FooterComponent } from './components/footer/footer.component';
+import { HomeRusComponent } from './components/home-rus/home-rus.component';
+import { AboutRusComponent } from './components/about-rus/about-rus.component';
+import { ItemGalleryRusComponent } from './components/item-gallery-rus/item-gallery-rus.component';
+import { ItemDetailsRusComponent } from './components/item-details-rus/item-details-rus.component';
+import { NavbarRusComponent } from './components/navbar-rus/navbar-rus.component';
+import { FooterRusComponent } from './components/footer-rus/footer-rus.component';
 
 @NgModule({
   declarations: [
@@ -22,7 +28,13 @@ import { FooterComponent } from './components/footer/footer.component';
     AboutComponent,
     PageNotFoundComponent,
     NavbarComponent,
-    FooterComponent
+    FooterComponent,
+    HomeRusComponent,
+    AboutRusComponent,
+    ItemGalleryRusComponent,
+    ItemDetailsRusComponent,
+    NavbarRusComponent,
+    FooterRusComponent
   ],
   imports: [
     BrowserModule,
