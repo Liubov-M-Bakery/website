@@ -34,7 +34,7 @@ import { FooterRusComponent } from './components/footer-rus/footer-rus.component
     ItemGalleryRusComponent,
     ItemDetailsRusComponent,
     NavbarRusComponent,
-    FooterRusComponent
+    FooterRusComponent,
   ],
   imports: [
     BrowserModule,
