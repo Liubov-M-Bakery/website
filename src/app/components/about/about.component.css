@@ -27,8 +27,3 @@ a {
     max-width: 600px;
     height: auto;
 }
-
-figcaption {
-    font-size: smaller;
-    font-style: italic;
-}
